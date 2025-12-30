@@ -1,3 +1,5 @@
+//PRASHANT PATEL
+//ERP-10995
 #include <stdio.h>
 void printNumbers(int n) {
     int i;
@@ -62,4 +64,5 @@ int main() {
 
 
     return 0;
+
 }
